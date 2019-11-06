@@ -8,7 +8,7 @@ A collection of new gui control classes that support fading via custom rendering
 * <b>GuiFadingBitmapCtrl :</b> Gui control with an image that will fade in and out. Includes child controls.<br>
 <br>
 * <b>GuiFadingButtonCtrl :</b> Gui button control that will fade in and out. Only for buttons with no image, using profiles to 'fill' the color and borders.<br>
-
+<br>
 #Installation
 <h3>Source Code:</h3>
 <b>1 -</b> Create a new directory <filepath>"source\gui\fading\"</filepath>.<br>
