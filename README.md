@@ -1,5 +1,5 @@
 # Extended GuiObjectView v1.0
-An extension to the GuiObjectView class.
+An extended version of the GuiObjectView class.
 
 # Extended Features
 * Sub-mesh visibility states
