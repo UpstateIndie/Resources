@@ -1,5 +1,5 @@
 # Resources
-A collection of resources created by Jesse Allen for the MIT Licensed Open Source version of [Torque3D](http://www.torque3d.org/) from [GarageGames](http://www.garagegames.com/).
+A collection of resources created for the MIT Licensed Open Source version of [Torque3D](http://www.torque3d.org/) from [GarageGames](http://www.garagegames.com/).
 
 Each resource is available for download seperately within its own branch of this repository.
 
